@@ -24,14 +24,17 @@
 
 </div>
 
-FRONT-END : [ HTML, CSS, JavaScript ]
-BACK-END  : [ Java, SQL, Spring Boot ]
-TOOLS     : [ Git, VSCode, IntelliJ ]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,spring,mysql,git,aws,azure,postman,vscode,intellij&theme=dark" />
+  </a>
+</p>
+
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stteinz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sttteinz's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stteinz&layout=compact&theme=tokyonight&hide_border=true" alt="sttteinz's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=stteinz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stteinz's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stteinz&layout=compact&theme=tokyonight&hide_border=true" alt="stteinz's Top Languages">
 </p>
 
 <p align="center">
