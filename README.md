@@ -47,7 +47,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,figma,redhat,aws,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma,redhat,aws,azure&theme=dark" />
   </a>
 </p>
 
