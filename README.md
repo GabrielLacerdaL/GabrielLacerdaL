@@ -23,3 +23,17 @@
 **// &nbsp; C O R E &nbsp; &nbsp; A R S E N A L &nbsp; //**
 
 </div>
+
+FRONT-END : [ HTML, CSS, JavaScript ]
+BACK-END  : [ Java, SQL, Spring Boot ]
+TOOLS     : [ Git, VSCode, IntelliJ ]
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stteinz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sttteinz's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stteinz&layout=compact&theme=tokyonight&hide_border=true" alt="sttteinz's Top Languages">
+</p>
+
+<p align="center">
+  †
+</p>
