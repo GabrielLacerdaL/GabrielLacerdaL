@@ -50,3 +50,14 @@
     <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,figma,discord,redhat,aws,gmail,azure&theme=dark" />
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stteinz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stteinz's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stteinz&layout=compact&theme=tokyonight&hide_border=true" alt="stteinz's Top Languages">
+</p>
+
+<p align="center">
+  †
+</p>
